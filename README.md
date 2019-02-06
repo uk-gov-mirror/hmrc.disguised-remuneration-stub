@@ -1,7 +1,7 @@
 
 # disguised-remuneration-stub
 
-A stub for Disguised Remuneration.
+A stub for Disguised Remuneration microservice.
 
 ### License
 
